@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "play.bmcnetwork.fun",
-    "port": 25726,
+    "ip": "IES-SMP.aternos.me:47707",
+    "port": 47707,
     "version": "",
     "try-creative": false
   },
